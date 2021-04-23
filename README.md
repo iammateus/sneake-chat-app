@@ -1,6 +1,6 @@
 # Sneake Chat App
 
-Front end of a React chat using socket.oi.
+A chat created using React and socket.oi.
 
 ![enter image description here](https://raw.githubusercontent.com/iammateus/sneake-chat-app/assets/demo.png)
 ## Requeriments
