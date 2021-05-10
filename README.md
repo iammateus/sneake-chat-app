@@ -1,26 +1,15 @@
 # Sneake Chat App
 
-A chat created using React and socket.oi.
-
+A basic chat created using React and socket.oi.
 ![enter image description here](https://raw.githubusercontent.com/iammateus/sneake-chat-app/assets/demo.png)
-## Requeriments
-This project has a few dependencies that you need to install.
-|  Method | Dependencies |
-|--|--|
-| Docker | [Docker](https://docs.docker.com/) and [Docker Compose](https://docs.docker.com/compose/) |
-| Without Docker | [Node](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com/) or [NPM](https://www.npmjs.com/)|
 
- ## Installation
-Using Docker 
+## Requeriments
+- [Docker](https://docs.docker.com/get-started/)
+- [Chat backend](https://github.com/iammateus/sneake-chat)
+
+## Installation
 
     $ docker-compose up
-or
-
-    $ yarn install
-or
-
-    $ npm install
-To start without docker: yarn/npm start
 
  ## Environment Variables
 
