@@ -1,7 +1,7 @@
 # Sneake Chat App
 
-A basic chat created using React and socket.oi.
-![enter image description here](https://raw.githubusercontent.com/iammateus/sneake-chat-app/assets/demo.png)
+A chat created using React and socket.oi.
+![Print of the chat](https://raw.githubusercontent.com/iammateus/sneake-chat-app/assets/demo.png)
 
 ## Requeriments
 - [Docker](https://docs.docker.com/get-started/)
